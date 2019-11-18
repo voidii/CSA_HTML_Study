@@ -2,7 +2,7 @@ var mysql      = require('mysql');
 var connection = mysql.createConnection({
   host     : 'mydatabase.c9ukuxyqda4n.us-west-1.rds.amazonaws.com',
   user     : 'CSAUser',
-  password : 'Csa666!!',
+  password : 'Csalll,
   database : 'workshop'
 });
  
